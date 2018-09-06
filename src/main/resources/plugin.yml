@@ -1,0 +1,7 @@
+name: HandCuffs
+version: 1.0
+main: de.ratzed.handcuffs.HandCuffs
+author: RatZed
+commands:
+     handschellen:
+       description:
